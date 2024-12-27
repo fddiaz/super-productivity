@@ -809,6 +809,7 @@
         "L_AUTO_COUNT_UP": "El gatillo automático cuenta para",
         "L_AUTO_SWITCH_OFF": "Disparador automático apagado para",
         "L_AUTO_SWITCH_ON": "Encendido automático para",
+        "L_COUNTDOWN_DURATION": "Duración de la cuenta atrás",
         "L_ICON": "Icono",
         "L_ICON_ON": "Icono cuando se alterna",
         "L_IS_ENABLED": "Habilitado",
@@ -816,10 +817,14 @@
         "L_TYPE": "Tipo",
         "TITLE": "Contadores simples",
         "TYPE_CLICK_COUNTER": "Contador de clics",
+        "TYPE_REPEATED_COUNTDOWN": "Cuenta regresiva repetida",
         "TYPE_STOPWATCH": "Cronógrafo"
       }
     },
     "SYNC": {
+      "A": {
+        "ARCHIVE_ONLY_UPLOADED": "Tus datos solo se han cargado parcialmente. ¡Vuelve a intentarlo más tarde! De lo contrario, no podrás sincronizar tus datos con otros dispositivos."
+      },
       "C": {
         "EMPTY_SYNC": "Estás intentando sincronizar un objeto de datos vacío. ¿Es esta tu primera sincronización de una aplicación (casi) virgen?",
         "FORCE_IMPORT": "¿Importar datos remotos de todos modos?",
